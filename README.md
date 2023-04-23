@@ -125,17 +125,12 @@ file: .env
 VAULT_ADDR=http://www.example.com:8200
 
 ```
-## Supportability
-- for supportability or questions, please create an ESM ticket or email the IEO West LabOps team: matthew.branche@dell.com
 
 ## Reference docs
 - installing vault with docker-compose reference: https://www.bogotobogo.com/DevOps/Docker/Docker-Vault-Consul.php
 - education on hashi vault, vault credential storage, and api token authentication: https://learn.hashicorp.com/collections/vault/cloud?utm_source=google&utm_medium=sem&utm_campaign=na_search_brand_hcp_vault&utm_content=17089930765-133042353981-595455078180&utm_offer=signup&gclid=Cj0KCQjwyOuYBhCGARIsAIdGQRNSkOaSZTIcT21EAfNmIDf-LkVc-_o7elN3zfvkNjPrEZ14-6GtkpMaAnf2EALw_wcB
 - installing docker reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 - installing docker-compose reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
-
-## Docker and Docker-compose information
-- For specifics on the Dockerfile, and docker-compose.yml functionality, please contact matthew.branche@dell.com
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
